@@ -1,0 +1,26 @@
+.logo{
+width: 90px
+}
+nav.navbar{
+    background: #fff;
+}
+.banner-buttom{
+    background: rgb(rgb(0, 162, 255));
+}
+.banner-buttom:hover{
+    background: rgb(0, 162, 255);
+
+}
+.banner{
+    background: #e4ccbe;
+}
+.program-section{
+    background: rgb(89, 222, 226);
+}
+
+.buttom:hover{
+    background: rgb(212, 93, 93);
+}
+.box1{
+    margin-bottom: 5ch;
+}
